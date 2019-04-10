@@ -34,4 +34,9 @@ public class UI extends PApplet
 	public void draw()
 	{			
 	}
+
+	public Colour findColor(int value)
+	{
+		//
+	}
 }
