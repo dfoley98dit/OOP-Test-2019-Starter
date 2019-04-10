@@ -8,5 +8,12 @@ import processing.data.TableRow;
 
 public class Colour extends PApplet
 {
-    
+
+    private String colour[];
+
+    public void colour()
+    {
+        
+    }
+
 }
